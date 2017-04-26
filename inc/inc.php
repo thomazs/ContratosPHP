@@ -1,7 +1,7 @@
 <?php
 
 define("DB_DB", "contratos");
-define("DB_PWD", "suaSenhaBD");
+define("DB_PWD", "m@rc05!");
 define("DB_USR", "root");
 
 define("SESSION_CTR_VAR", "ctruser");
